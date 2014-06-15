@@ -1,2 +1,1 @@
-user: warota
-user: pgit35
+user: all
